@@ -1,0 +1,28 @@
+#button-label {
+  width: 100px;
+  padding: 15px;
+  border-radius: 30px;
+  border: none;
+  background-color: rgb(26, 25, 25);
+
+  font-size: 1rem;
+  font-weight: 500;
+  color: white;
+  cursor: pointer;
+}
+.setting {
+  margin-top: 20px;
+}
+.active-label {
+  background-color: #e63946 !important;
+}
+
+.start-active {
+  padding: 10px;
+  margin-right: 20px;
+  background-color: #e63946 !important;
+}
+.pause-active {
+  background-color: #e63946 !important;
+  margin-left: 20px;
+}
